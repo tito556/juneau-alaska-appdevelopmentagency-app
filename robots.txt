@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juneau-alaska.appdevelopmentagency.app/sitemap.xml
